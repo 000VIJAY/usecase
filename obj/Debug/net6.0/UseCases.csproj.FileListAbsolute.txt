@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\UseCases\UseCases\bin\Debug\net6.0\UseCases.exe
+C:\Users\Asus\source\repos\UseCases\UseCases\bin\Debug\net6.0\UseCases.deps.json
+C:\Users\Asus\source\repos\UseCases\UseCases\bin\Debug\net6.0\UseCases.runtimeconfig.json
+C:\Users\Asus\source\repos\UseCases\UseCases\bin\Debug\net6.0\UseCases.dll
+C:\Users\Asus\source\repos\UseCases\UseCases\bin\Debug\net6.0\UseCases.pdb
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.AssemblyInfo.cs
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.dll
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\refint\UseCases.dll
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.pdb
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\UseCases.genruntimeconfig.cache
+C:\Users\Asus\source\repos\UseCases\UseCases\obj\Debug\net6.0\ref\UseCases.dll

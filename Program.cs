@@ -1,21 +1,33 @@
 ﻿Console.WriteLine("Welcome to Employee Wage");
 int employeeRatePerHr = 20;
 int employeeHrs = 0;
-int employeeWagePerDay = 0;
-Random rnd = new Random();
-int randomCheck = rnd.Next(2);
+int maxWorkingDaysInMonth = 20;
+int maxWorkinghrsInMonth = 100;
+int totalEmployeeHrs = 0;
+int totalWorkingDays = 0;
+int isPresent = 0;
+int isParttime = 1;
 
-switch (randomCheck)
+while (totalEmployeeHrs <= maxWorkinghrsInMonth && totalWorkingDays < maxWorkingDaysInMonth)
 {
-    case 0:
+    totalWorkingDays++;
+    Random rnd = new Random();
+    int employeeCheck = rnd.Next(0, 3);
+
+    if (employeeCheck == isPresent)
+    {
         employeeHrs = 8;
-        break;
-    case 1:
+    }
+    else if (employeeCheck == isParttime)
+    {
         employeeHrs = 4;
-        break;
-    default:
+    }
+    else
+    {
         employeeHrs = 0;
-        break;
+    }
+    totalEmployeeHrs += employeeHrs;
+    Console.WriteLine("Day : " + totalWorkingDays + "employeeHours : " + totalEmployeeHrs); 
 }
-employeeWagePerDay = employeeHrs * employeeRatePerHr;
-Console.WriteLine("employeeWage : " + employeeWagePerDay);
+int totalEmployeeWage = totalEmployeeHrs * employeeRatePerHr;
+Console.WriteLine("totalWage" + totalEmployeeWage);
